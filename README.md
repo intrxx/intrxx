@@ -11,6 +11,8 @@
 
 <h3 align="left">How to reach me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/micha%C5%82-ogi%C5%84ski-b67386238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="Michał-Ogiński" height="30" width="40" /></a>
+Gmail: <b> mic.oginski@gmail.com </b>
+<br/>
+LinkedIn: <a href="https://www.linkedin.com/in/micha%C5%82-ogi%C5%84ski-b67386238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michał-Ogiński" height="30" width="40" /></a>
 </p>
 
