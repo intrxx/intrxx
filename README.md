@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Welcome to my profile 👋, I'm Michał!</h1>
-  <h3>I'm currently working to become an Unreal Engine Programmer</h3>
 </div>
 
 <br/>
