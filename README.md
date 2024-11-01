@@ -16,7 +16,9 @@
 </p>
 <br/>
 <br/>
-[Personal Unreal Engine Wiki](https://github.com/intrxx/PersonalUnrealEngineWiki)
+<p align="left">
+  <a href="https://github.com/intrxx/PersonalUnrealEngineWiki"> Personal Unreal Engine Wiki</a>
+</p>
 
 
 
