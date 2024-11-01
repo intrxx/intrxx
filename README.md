@@ -17,7 +17,7 @@
 <br/>
 <br/>
 <p align="left">
-  [Personal Unreal Engine Wiki](https://github.com/intrxx/PersonalUnrealEngineWiki)
+  [https://github.com/intrxx/PersonalUnrealEngineWiki](Personal Unreal Engine Wiki)
 </p>
 
 
