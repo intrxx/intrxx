@@ -15,7 +15,6 @@
   Portfolio: <b>https://intrxx.github.io/</b>
 </p>
 <br/>
-<br/>
 <p align="left">
   <a href="https://github.com/intrxx/PersonalUnrealEngineWiki"> Personal Unreal Engine Wiki</a>
 </p>
