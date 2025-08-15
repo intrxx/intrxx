@@ -1,16 +1,8 @@
-<div align="center">
-  <h1>Hi There</h1>
-</div>
+### intrxx
 
-<br/>
-
-
+Jsut a guy looking to build performant projects, understand memory, good architecture and unlimatly develop and contribute to good games (mostly arpg, btw).
 
 <p align="left">
-<br/>
-  LinkedIn: <a href="https://www.linkedin.com/in/micha%C5%82-ogi%C5%84ski-b67386238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michał     
-  Ogiński" height="30" width="40" /></a>
-<br/>
   Portfolio: <b>https://intrxx.github.io/</b>
 </p>
 <br/>
