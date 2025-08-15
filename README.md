@@ -1,15 +1,12 @@
 ### intrxx
 
-Jsut a guy looking to build performant projects, understand memory, good architecture and unlimatly develop and contribute to good games (mostly arpg, btw).
+Jsut a guy looking to build performant projects, understand memory, good architecture
+and unlimatly develop and contribute to good games (mostly arpg, btw).
 
-<p align="left">
-  Portfolio: <b>https://intrxx.github.io/</b>
-</p>
-<br/>
-<p align="left">
-  <a href="https://github.com/intrxx/PersonalUnrealEngineWiki"> Personal Unreal Engine Wiki</a>
-</p>
-
+Bonuses
+* My [Portfolio](https://intrxx.github.io/) that I seriously need to work on
+* [Personal Unreal Engine Wiki](https://github.com/intrxx/PersonalUnrealEngineWiki) that I may or may not contribute to once per few months
+* My [Steam Profile](https://steamcommunity.com/id/intrxx/)
 
 
 
