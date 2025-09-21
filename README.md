@@ -6,6 +6,7 @@ Bonuses
 * My [Portfolio](https://intrxx.github.io/) that I seriously need to work on
 * [Personal Unreal Engine Wiki](https://github.com/intrxx/PersonalUnrealEngineWiki) that I may or may not contribute to once per few months
 * My [Steam Profile](https://steamcommunity.com/id/intrxx/), where I should probably spend less time
+* My [Rider/CLion Color Scheme](https://github.com/intrxx/JetBrainsColorScheme), which is truly remarkable btw
 
 
 
